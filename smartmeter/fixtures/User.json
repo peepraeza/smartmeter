@@ -1,0 +1,11 @@
+[
+  {
+    "model": "smartfarm.models.User",
+    "pk": 1,
+    "fields": {
+      "username": "admin",
+      "raw_password": "admin",
+      "digest_password": ""
+    }
+  }
+]
